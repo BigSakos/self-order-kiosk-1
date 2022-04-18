@@ -1,6 +1,7 @@
 # Self Order Kiosk App
 
-
+Hello! You can view the app on https://self-order-kiosk-1.herokuapp.com/
+Thanks again for stopping by!
 
 # Getting Started with Create React App
 
